@@ -6,8 +6,6 @@ A programação funcional é uma abordagem de programação que se concentra na 
 
 A programação funcional é baseada em três princípios principais: imutabilidade, composição e abstração. A imutabilidade significa que os dados não podem ser alterados depois de serem criados. A composição significa que os programas são criados a partir da composição de funções. E a abstração significa que os programadores podem criar funções abstratas para representar processos complexos.
 
-A programação funcional é usada em várias linguagens de programação, incluindo Haskell, Lisp, Scheme e Erlang.
-
 ## Benefícios
 
 1. Maior legibilidade: A programação funcional é mais legível do que outras abordagens de programação, pois é baseada em funções simples e abstrações. Isso significa que os programadores podem entender facilmente o que o código está fazendo.
